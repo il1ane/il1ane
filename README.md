@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @il1ane
-- 👀 I’m interested in iOS apps
 - 🌱 I’m currently learning Swift and SwiftUI
