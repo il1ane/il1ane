@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Iliane
 - 🌱 I’m currently learning Swift and SwiftUI
+- 💻 I'm looking to find my first job as an iOS developer
+- ✉️ Mail: il1ane@icloud.com
